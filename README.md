@@ -14,7 +14,7 @@ Featured projects: [Web](),
 **Software Developer** \
 [**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Part time \
 Languages & Technologies: `C#`, `TypeScript`, `React`, `ASP.NET`, `SQL`, `CSS`, `HTML`\
-Featured Projects: [IWeb](),
+Featured Projects: [Web](),
 <br/>
 
 <img align="left" height="94px" width="94px" alt="freelancerlogo" src="https://github.com/user-attachments/assets/a59f8703-b98c-4dc9-863f-3e04be24dad5" />
