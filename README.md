@@ -6,7 +6,6 @@ Below is a summary of my most recent work experience:
 **Software Developer Intern** \
 [**JLF Materiales Eléctricos**](https://electrojlf.com.ar/) • Hybrid \
 Languages ​​and Technology: `Python`, `Django`, `C#`, `JavaScript`, `Svelte`, `Java`,\
-<br/>
 Featured projects: [Web](),
 <br/>
 
@@ -15,7 +14,6 @@ Featured projects: [Web](),
 **Software Developer** \
 [**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Part time \
 Languages & Technologies: `JavaScript`, `Node`, `React`\
-<br/>
 Featured Projects: [Ignite](), [Bootcamp]()
 <br/>
 
@@ -24,7 +22,6 @@ Featured Projects: [Ignite](), [Bootcamp]()
 **Freelance Software Engineer** \
 [**Freelance**](https://my-portfolio-nine-sandy-82.vercel.app/) • Autonomous \
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-<br/>
 Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 <br/>
 
@@ -33,7 +30,6 @@ Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 **Student Researcher** \
 [**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-<br/>
 Featured Projects: [Project]()
 <br/>
 
