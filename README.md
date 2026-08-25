@@ -42,7 +42,7 @@ Featured Projects: [Project]()
 <br/>
 <br/>
 
-## Featured Projects
+#### Featured Projects
 - [**Project Name**](Link) — Short one-line description
 - [**Project Name**](link) — Short one-line description
 - [**Project Name**](link) — Short one-line description
