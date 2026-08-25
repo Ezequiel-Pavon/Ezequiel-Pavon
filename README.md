@@ -10,3 +10,18 @@ Languages ​​and Technology: `Python`, `Django`, `C#`, `JavaScript`, `Svelte`
 Featured projects: [Web](),
 <br/>
 
+
+**Software Developer** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Languages & Technologies: `JavaScript`, `Node`, `React`\
+Featured Projects: [Ignite](), [Bootcamp]()
+<br/>
+
+
+**Freelance Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [App](https://nubank.com.br/)
+<br/>
+<br/>
+Please find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/) for a more detailed description of my work experience, education, and certifications.
