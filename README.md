@@ -44,17 +44,6 @@ Featured Projects: [Project]()
 
 <br/>
 <br/>
-
-
-
-
-
-
-
-
 Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
 
-[<img align="center" height="32px" alt="vercellogo" src="https://github.com/user-attachments/assets/fe69d669-d1b0-48ba-b1b8-aa4b2c966846" />]https://howieze.vercel.app/page/home.html)
-
-[<img align="center" height="32px" src="https://img.icons8.com/fluency/48/web.png"/>](https://my-portfolio-nine-sandy-82.vercel.app/)
