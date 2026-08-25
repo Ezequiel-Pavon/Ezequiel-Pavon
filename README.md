@@ -44,7 +44,9 @@ Featured Projects: [Project]()
 
 #### Featured Projects
 - [**Project Name**](Link) — Short one-line description
+-
 - [**Project Name**](link) — Short one-line description
+- 
 - [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) `![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)` `![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)`
 
 <br/>
