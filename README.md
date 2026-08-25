@@ -5,14 +5,18 @@ Below is a summary of my most recent work experience:
 
 **Software Developer Intern** \
 [**JLF Materiales Eléctricos**](https://electrojlf.com.ar/) • Hybrid \
-Languages ​​and Technology: `Python`, `Django`, `C#`, `JavaScript`, `Svelte`, `Java`,\ Featured projects: [Web](),
+Languages ​​and Technology: `Python`, `Django`, `C#`, `JavaScript`, `Svelte`, `Java`,\
+<br/>
+Featured projects: [Web](),
 <br/>
 
 <img align="left" height="94px" width="94px" alt="qlt-logo" src="https://github.com/user-attachments/assets/d2ba85f6-add8-4fa8-a37b-99b8240fd6fe" />
 
 **Software Developer** \
 [**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Part time \
-Languages & Technologies: `JavaScript`, `Node`, `React`\ Featured Projects: [Ignite](), [Bootcamp]()
+Languages & Technologies: `JavaScript`, `Node`, `React`\
+<br/>
+Featured Projects: [Ignite](), [Bootcamp]()
 <br/>
 
 <img align="left" height="94px" width="94px" alt="freelancerlogo" src="https://github.com/user-attachments/assets/a59f8703-b98c-4dc9-863f-3e04be24dad5" />
@@ -20,6 +24,7 @@ Languages & Technologies: `JavaScript`, `Node`, `React`\ Featured Projects: [Ign
 **Freelance Software Engineer** \
 [**Freelance**](https://my-portfolio-nine-sandy-82.vercel.app/) • Autonomous \
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+<br/>
 Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 <br/>
 
@@ -28,6 +33,7 @@ Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 **Student Researcher** \
 [**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+<br/>
 Featured Projects: [Project]()
 <br/>
 
