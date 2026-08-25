@@ -24,4 +24,5 @@ Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Featured Projects: [App](https://nubank.com.br/)
 <br/>
 <br/>
-Please find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/) for a more detailed description of my work experience, education, and certifications.
+
+Please find me on [<img align="center" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/> LinkedIn](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/) for a more detailed description of my work experience, education, and certifications.
