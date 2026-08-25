@@ -49,4 +49,4 @@ Featured Projects: [Project]()
 <br/>
 <br/>
 
-Please find me on [<img width="24" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
+Please find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
