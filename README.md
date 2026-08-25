@@ -25,7 +25,7 @@ Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 <br/>
 
-<img width="800" height="800" alt="Lifialogo" src="https://github.com/user-attachments/assets/10123b66-c9a2-43a6-b07e-06e2c730422c" />
+<img align="left" height="94px" width="94px" alt="Lifialogo" src="https://github.com/user-attachments/assets/10123b66-c9a2-43a6-b07e-06e2c730422c" />
 
 **Student Researcher** \
 [**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
