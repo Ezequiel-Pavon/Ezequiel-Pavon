@@ -40,7 +40,12 @@ Featured Projects: [Project]()
 Languages & Technologies: `Python`, `C++`\
 Featured Projects: [Project]()
 <br/>
+<br/>
 
+### Featured Projects
+- [**Project Name**](Link) — Short one-line description
+- [**Project Name**](link) — Short one-line description
+- [**Project Name**](link) — Short one-line description
 
 <br/>
 <br/>
