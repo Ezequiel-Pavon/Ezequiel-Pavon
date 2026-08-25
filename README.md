@@ -24,6 +24,14 @@ Featured Projects: [Ignite](), [Bootcamp]()
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 <br/>
+
+<img width="800" height="800" alt="Lifialogo" src="https://github.com/user-attachments/assets/10123b66-c9a2-43a6-b07e-06e2c730422c" />
+
+**Student Researcher** \
+[**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [Project]()
 <br/>
+
 
 Please find me on [<img align="center" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/> LinkedIn](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/) for a more detailed description of my work experience, education, and certifications.
