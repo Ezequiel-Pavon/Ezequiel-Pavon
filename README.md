@@ -5,7 +5,7 @@ Below is a summary of my most recent work experience:
 
 **Software Developer Intern** \
 [**JLF Materiales Eléctricos**](https://electrojlf.com.ar/) • Hybrid \
-Languages ​​and Technology: `Python`, `Django`, `C#`, `JavaScript`, `Svelte`, `Java`,\
+Languages and Technology: `Python`, `Django`, `Java`, `PLC`\
 Featured projects: [Web](),
 <br/>
 
@@ -13,7 +13,7 @@ Featured projects: [Web](),
 
 **Software Developer** \
 [**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Part time \
-Languages & Technologies: `JavaScript`, `Node`, `React`\
+Languages & Technologies: `C#`, `TypeScript`, `React`, `ASP.NET`, `SQL`, `CSS`, `HTML`\
 Featured Projects: [Ignite](), [Bootcamp]()
 <br/>
 
@@ -21,7 +21,7 @@ Featured Projects: [Ignite](), [Bootcamp]()
 
 **Freelance Software Engineer** \
 [**Freelance**](https://my-portfolio-nine-sandy-82.vercel.app/) • Autonomous \
-Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Languages & Technologies: `Python`, `SQL`, `Django`, `LLMs`\
 Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 <br/>
 
@@ -29,7 +29,7 @@ Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 
 **Student Researcher** \
 [**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
-Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Languages & Technologies: `Python`, `Pipelines`, `SQLite`, `Django`, `LLAMA3`, `LLMs`\
 Featured Projects: [Project]()
 <br/>
 
@@ -37,7 +37,7 @@ Featured Projects: [Project]()
 
 **Debian Contributor** \
 [**Debian**](https://www.debian.org/) • Autonomous \
-Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Languages & Technologies: `Python`, `C++`\
 Featured Projects: [Project]()
 <br/>
 
