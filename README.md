@@ -20,9 +20,9 @@ Featured Projects: [Ignite](), [Bootcamp]()
 <img align="left" height="94px" width="94px" alt="freelancerlogo" src="https://github.com/user-attachments/assets/a59f8703-b98c-4dc9-863f-3e04be24dad5" />
 
 **Freelance Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
+[**Freelance**](https://my-portfolio-nine-sandy-82.vercel.app/) • Autonomous \
 Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Featured Projects: [App](https://nubank.com.br/)
+Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 <br/>
 <br/>
 
