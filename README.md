@@ -45,8 +45,7 @@ Featured Projects: [Project]()
 <br/>
 <br/>
 
-Find me on [<img align="center" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@howieze)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=hashnode&logoColor=white)](https://howieze.vercel.app/page/home.html)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-nine-sandy-82.vercel.app/)
+Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
+[<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
+[<img align="center" height="32px" src="https://img.icons8.com/color/48/blog.png"/>](https://howieze.vercel.app/page/home.html)
+[<img align="center" height="32px" src="https://img.icons8.com/fluency/48/web.png"/>](https://my-portfolio-nine-sandy-82.vercel.app/)
