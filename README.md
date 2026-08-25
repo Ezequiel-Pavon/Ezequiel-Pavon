@@ -33,5 +33,16 @@ Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Featured Projects: [Project]()
 <br/>
 
+<img align="left" height="94px" width="94px" alt="debianlogo" src="https://github.com/user-attachments/assets/85ee72e2-c465-400a-b644-f70586be6d14" />
 
+**Debian Contributor** \
+[**Debian**](https://www.debian.org/) • Autonomous \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [Project]()
+<br/>
+
+
+
+<br/>
+<br/>
 Please find me on [<img align="center" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/> LinkedIn](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/) for a more detailed description of my work experience, education, and certifications.
