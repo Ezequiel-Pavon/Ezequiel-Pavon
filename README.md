@@ -1,7 +1,6 @@
-<img width="1300" height="503" alt="profile (2)" src="https://github.com/user-attachments/assets/e5151609-5259-418a-9bf0-27343287ee03" />
 
 <p align="center">
-  <img src="profile.svg" alt="Hacker Profile" width="1095">
+  <img width="1300" height="503" alt="profile (2)" src="https://github.com/user-attachments/assets/e5151609-5259-418a-9bf0-27343287ee03" />
 </p>
 
 <p align="center">
