@@ -2,7 +2,6 @@
 <p align="center">
   <img width="1300" height="503" alt="profile (2)" src="https://github.com/user-attachments/assets/e5151609-5259-418a-9bf0-27343287ee03" />
 </p>
-
 <p align="center">
   <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
 </p>
