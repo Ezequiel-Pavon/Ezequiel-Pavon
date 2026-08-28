@@ -56,6 +56,7 @@ Featured Projects: [Project]()
 <hr/>
 
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
+
 **Analista Programador** \
 [**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \
 Áreas de estudio: `Computer Science`,\
@@ -64,13 +65,13 @@ Proyectos Destacados: [Proyecto]()
 <br/>
 
 <img align="left" height="94px" width="94px" alt="MECA" src="https://github.com/user-attachments/assets/9d12016f-1d77-4422-ba11-c012bc37f556" />
+
 **Ingeniería Mecánica** \
 [**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \
 Áreas de estudio: `mechanical engineering`\
 Proyectos Destacados: [Proyecto]()
 
 <br/>
-
 <hr/>
 
 #### Featured Projects
