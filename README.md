@@ -32,6 +32,7 @@ Featured Projects: [Web](),
 [**Freelance**](https://my-portfolio-nine-sandy-82.vercel.app/) • Autonomous \
 Languages & Technologies: `Python`, `SQL`, `Django`, `LLMs`\
 Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
+
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Lifialogo" src="https://github.com/user-attachments/assets/10123b66-c9a2-43a6-b07e-06e2c730422c" />
@@ -40,6 +41,7 @@ Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 [**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
 Languages & Technologies: `Python`, `Pipelines`, `SQLite`, `Django`, `LLAMA3`, `LLMs`\
 Featured Projects: [Project]()
+
 <br/>
 
 <img align="left" height="94px" width="94px" alt="debianlogo" src="https://github.com/user-attachments/assets/85ee72e2-c465-400a-b644-f70586be6d14" />
