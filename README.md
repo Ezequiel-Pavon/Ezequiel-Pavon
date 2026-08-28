@@ -1,39 +1,5 @@
 <img width="1044" height="563" alt="profile" src="https://github.com/user-attachments/assets/5409e2ae-6571-4d87-a0ed-9089619ba1fd" /><svg xmlns="http://www.w3.org/2000/svg" width="1044" height="563" viewBox="0 0 1044 563">
-  <style>
-    .terminal {
-      fill: #0d0d0d;
-      stroke: #00ff66;
-      stroke-width: 1.5;
-      rx: 12px;
-    }
-    .text-base {
-      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      font-size: 13.5px;
-      line-height: 16px;
-    }
-    .ascii-text {
-      font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      font-size: 8px;
-      fill: #ffffff;
-      letter-spacing: 0px;
-    }
-    .title { fill: #00ff66; font-weight: bold; }
-    .key { fill: #00ff66; }
-    .val { fill: #ffffff; }
-    .decor { fill: #008833; }
-    .bullet { fill: #008833; }
-  </style>
-
-  <!-- Background Card -->
-  <rect class="terminal" width="1034" height="553" x="5" y="5" />
-
-  <!-- Mac-Style Window Dots -->
-  <circle cx="25" cy="25" r="6" fill="#ff5f56" />
-  <circle cx="45" cy="25" r="6" fill="#ffbd2e" />
-  <circle cx="65" cy="25" r="6" fill="#27c93f" />
-
-</svg>
-
+  
 
 
 ### Work experience
