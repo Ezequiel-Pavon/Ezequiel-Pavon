@@ -1,5 +1,4 @@
-<img width="1044" height="563" alt="profile" src="https://github.com/user-attachments/assets/5409e2ae-6571-4d87-a0ed-9089619ba1fd" /><svg xmlns="http://www.w3.org/2000/svg" width="1044" height="563" viewBox="0 0 1044 563">
-  
+<img width="1300" height="503" alt="profile (2)" src="https://github.com/user-attachments/assets/4249a1af-73d1-4c1a-9e9b-55afbca4febc" />
 
 
 ### Work experience
