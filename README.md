@@ -1,5 +1,10 @@
-<img width="1300" height="503" alt="profile (2)" src="https://github.com/user-attachments/assets/4249a1af-73d1-4c1a-9e9b-55afbca4febc" />
+<p align="center">
+  <img src="profile.svg" alt="Hacker Profile" width="1095">
+</p>
 
+<p align="center">
+  <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
+</p>
 
 ### Work experience
 Below is a summary of my most recent work experience:
