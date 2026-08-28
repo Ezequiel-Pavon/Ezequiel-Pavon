@@ -1,9 +1,8 @@
-<p align="center">
   <img width="1174" height="512" alt="profile (1)" src="https://github.com/user-attachments/assets/42de5a0a-c266-4898-8580-e8b1fd79d4ed" /><svg xmlns="http://www.w3.org/2000/svg" width="1174" height="512" viewBox="0 0 1174 512">
+
 <p align="center">
   <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
 </p>
-![Uploading profile-1.svg…]()
 
 
 ### Work experience
