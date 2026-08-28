@@ -51,6 +51,21 @@ Featured Projects: [Project]()
 <br/>
 <br/>
 
+<hr/>
+
+**Analista Programador** \
+[**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \
+Áreas de estudio: `Computer Science`,\
+Proyectos Destacados: [Proyecto]()
+<br/>
+**Ingeniería Mecánica** \
+[**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \
+Áreas de estudio: `mechanical engineering`\
+Proyectos Destacados: [Proyecto]()
+<br/>
+
+<hr/>
+
 #### Featured Projects
 - [**Project Name**](Link) — Short one-line description
 - [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-Whisper-412991?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
