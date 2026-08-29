@@ -90,7 +90,6 @@ Proyectos Destacados: [Proyecto]()
 - [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-Whisper-412991?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 - [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
-<hr/>
 Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/pinterest.png"/>](ar.pinterest.com/howieze)
