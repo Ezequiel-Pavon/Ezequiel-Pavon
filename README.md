@@ -6,6 +6,7 @@
   <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
 </p>
 
+<hr/>
 
 ### Work experience
 Below is a summary of my most recent work experience:
@@ -83,6 +84,7 @@ Proyectos Destacados: [Proyecto]()
 
 <br/>
 <br/>
+<hr/>
 
 Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
