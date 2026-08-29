@@ -86,7 +86,7 @@ Proyectos Destacados: [Proyecto]()
 <hr/>
 
 #### Featured Projects
-- - [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Arm Robot ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![CAD](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
+- [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Arm Robot ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![CAD](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
 - [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-Whisper-412991?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 - [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
