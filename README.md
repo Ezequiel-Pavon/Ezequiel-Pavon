@@ -62,7 +62,6 @@ Featured Projects: [Project]()
 [**Universidad Nacional de Quilmes(ESET-UNQ)**](https://www.unq.edu.ar/) • Presencial \ (2017-2023)
 Áreas de estudio: `Computer Science`,\
 Proyectos Destacados: [Proyecto]()
-
 <br/>
 
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
@@ -71,7 +70,6 @@ Proyectos Destacados: [Proyecto]()
 [**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \ (2026-2028)
 Áreas de estudio: `Computer Science`,\
 Proyectos Destacados: [Proyecto]()
-
 <br/>
 
 <img align="left" height="94px" width="94px" alt="MECA" src="https://github.com/user-attachments/assets/9d12016f-1d77-4422-ba11-c012bc37f556" />
@@ -80,18 +78,16 @@ Proyectos Destacados: [Proyecto]()
 [**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \ (2024-2026)
 Áreas de estudio: `mechanical engineering`\
 Proyectos Destacados: [Proyecto]()
-
 <br/>
+
 <hr/>
 
 #### Featured Projects
 - [**Project Name**](Link) — Short one-line description
 - [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-Whisper-412991?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 - [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-<br/>
 
 <hr/>
-
 Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/pinterest.png"/>](ar.pinterest.com/howieze)
