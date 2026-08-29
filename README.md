@@ -59,7 +59,7 @@ Featured Projects: [Project]()
 <img align="left" height="94px" width="94px" alt="UNQ" src="https://github.com/user-attachments/assets/0cd39bac-1c97-4bc5-9bc2-2c4d223f1312" />
 
 **Técnico Programador(Graduado)** \
-[**Universidad Nacional de Quilmes(ESET-UNQ)**](https://www.unq.edu.ar/) • Presencial \ (2017-2023)
+[**Universidad Nacional de Quilmes(ESET-UNQ)**](https://www.unq.edu.ar/) • Presencial \ 
 Áreas de estudio: `Computer Science`,\
 Proyectos Destacados: [Proyecto]()
 
@@ -68,7 +68,7 @@ Proyectos Destacados: [Proyecto]()
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
 
 **Analista Programador** \
-[**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \ (2026-2028)
+[**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \ 
 Áreas de estudio: `Computer Science`,\
 Proyectos Destacados: [Proyecto]()
 
@@ -77,7 +77,7 @@ Proyectos Destacados: [Proyecto]()
 <img align="left" height="94px" width="94px" alt="MECA" src="https://github.com/user-attachments/assets/9d12016f-1d77-4422-ba11-c012bc37f556" />
 
 **Ingeniería Mecánica** \
-[**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \ (2024-2026)
+[**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \ 
 Áreas de estudio: `mechanical engineering`\
 Proyectos Destacados: [Proyecto]()
 
