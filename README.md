@@ -55,6 +55,8 @@ Featured Projects: [Project]()
 
 <hr/>
 
+### Education
+
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
 
 **Analista Programador** \
