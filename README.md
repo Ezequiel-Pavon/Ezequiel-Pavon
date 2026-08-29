@@ -56,6 +56,15 @@ Featured Projects: [Project]()
 
 ### Education
 
+<img align="left" height="94px" width="94px" alt="UNQ" src="https://github.com/user-attachments/assets/0cd39bac-1c97-4bc5-9bc2-2c4d223f1312" />
+
+**Técnico Programador(Graduado)** \
+[**Universidad Nacional de Quilmes(ESET-UNQ)**](https://www.unq.edu.ar/) • Presencial \
+Áreas de estudio: `Computer Science`,\
+Proyectos Destacados: [Proyecto]()
+
+<br/>
+
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
 
 **Analista Programador** \
