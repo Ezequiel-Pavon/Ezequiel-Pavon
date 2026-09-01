@@ -1,4 +1,7 @@
-<!--  <img width="1174" height="512" alt="profile (1)" src="https://github.com/user-attachments/assets/42de5a0a-c266-4898-8580-e8b1fd79d4ed" /><svg xmlns="http://www.w3.org/2000/svg" width="1174" height="512" viewBox="0 0 1174 512">-->
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English"></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/lang-Español-red.svg" alt="Español"></a>
+</p>
 
 <img width="1041" height="452" alt="profile-1" src="https://github.com/user-attachments/assets/87ee2b9c-97fc-4158-af9a-db6a71f98ff4" /><svg xmlns="http://www.w3.org/2000/svg" width="1041" height="452" viewBox="0 0 1041 452">
  
