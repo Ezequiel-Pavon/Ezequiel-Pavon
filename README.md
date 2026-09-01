@@ -86,6 +86,14 @@ Areas of study: `Mechanical Engineering`\
 Featured Projects: [Project]()
 
 <br/>
+
+<img align="left" height="94px" width="94px" alt="IACBQ" src="https://github.com/user-attachments/assets/9afd3afe-06a3-4125-9364-51ea9823bb05" />
+
+**English B1** \
+[**IACBQ**](https://ing.unlp.edu.ar/) • In-person \   
+Areas of study: `English Language and Literature`\
+
+<br/>
 <hr/>
 
 ### Featured Projects
