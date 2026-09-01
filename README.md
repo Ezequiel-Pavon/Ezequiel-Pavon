@@ -86,7 +86,6 @@ Areas of study: `Mechanical Engineering`\
 Featured Projects: [Project]()
 
 <br/>
-
 <hr/>
 
 ### Featured Projects
