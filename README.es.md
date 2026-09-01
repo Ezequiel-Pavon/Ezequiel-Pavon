@@ -87,6 +87,14 @@ Proyectos Destacados: [Proyecto]()
 
 <br/>
 
+<img align="left" height="94px" width="94px" alt="IACBQ" src="https://github.com/user-attachments/assets/9afd3afe-06a3-4125-9364-51ea9823bb05" />
+
+**Inglés B1** \
+[**IACBQ**](https://ing.unlp.edu.ar/) • Presencial \   
+Áreas de estudio: `Idioma Inglés y Literatura`\
+
+<br/>
+<hr/>
 
 ### Proyectos Destacados
 - [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Brazo Robot Dummy ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
