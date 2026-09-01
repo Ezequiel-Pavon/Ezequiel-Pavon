@@ -87,6 +87,7 @@ Featured Projects: [Project]()
 
 <br/>
 
+<hr/>
 
 ### Featured Projects
 - [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Arm Robot ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![CAD](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
