@@ -55,38 +55,42 @@ Featured Projects: [Project]()
 <br/>
 <br/>
 
+He traducido la sección "Education" al inglés — aquí tienes la versión:
+
+```markdown
 <hr/>
 
 ### Education
 
 <img align="left" height="94px" width="94px" alt="UNQ" src="https://github.com/user-attachments/assets/0cd39bac-1c97-4bc5-9bc2-2c4d223f1312" />
 
-**Técnico Programador (Graduado)** \
-[**Universidad Nacional de Quilmes(ESET-UNQ)**](https://www.unq.edu.ar/) • Presencial \  
-Áreas de estudio: `Computer Science`,\
-Proyectos Destacados: [Proyecto]()
+**Programming Technician (Graduate)** \
+[**Universidad Nacional de Quilmes (ESET-UNQ)**](https://www.unq.edu.ar/) • In-person \  
+Areas of study: `Computer Science`,\
+Featured Projects: [Project]()
 
 <br/>
 
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
 
-**Analista Programador** \
+**Programmer Analyst** \
 [**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \      
-Áreas de estudio: `Computer Science`\
-Proyectos Destacados: [Proyecto]()
+Areas of study: `Computer Science`\
+Featured Projects: [Project]()
 
 <br/>
 
 <img align="left" height="94px" width="94px" alt="MECA" src="https://github.com/user-attachments/assets/9d12016f-1d77-4422-ba11-c012bc37f556" />
 
-**Ingeniería Mecánica** \
+**Mechanical Engineering** \
 [**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \   
-Áreas de estudio: `mechanical engineering`\
-Proyectos Destacados: [Proyecto]()
+Areas of study: `Mechanical Engineering`\
+Featured Projects: [Project]()
 
 <br/>
+```
 
-<hr/>
+¿Quieres que reemplace la sección original en el README por esta versión (hago el commit por ti)?
 
 ### Featured Projects
 - [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Arm Robot ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![CAD](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
