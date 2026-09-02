@@ -3,8 +3,8 @@
   <a href="README.es.md"><img src="https://img.shields.io/badge/lang-Español-red.svg" alt="Español"></a>
 </p>
 
-<img width="1041" height="452" alt="profile-1" src="https://github.com/user-attachments/assets/87ee2b9c-97fc-4158-af9a-db6a71f98ff4" /><svg xmlns="http://www.w3.org/2000/svg" width="1041" height="452" viewBox="0 0 1041 452">
- 
+<img width="500" height="220" alt="profile-1" src="https://github.com/user-attachments/assets/87ee2b9c-97fc-4158-af9a-db6a71f98ff4" />
+
 <p align="center">
   <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
 </p>
@@ -142,13 +142,12 @@ Areas of study: `Open source`, `Linux`\
 <hr/>
 
 ### Featured Projects
-- [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Robotic arm ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![CAD](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
-- [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-Whisper-412991?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
-- [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+- [**ARM-Robot (Dummy)**](https://github.com/Ezequiel-Pavon/ARM-Robot) — Dummy Robotic arm ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+- [**Jarvis AI**](https://github.com/Ezequiel-Pavon/Jarvis) — Local voice assistant with tool calling ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- [**dotfiles**](https://github.com/Ezequiel-Pavon/dotfiles) — i3wm (tiling window manager on Linux) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 <hr/>
 
 Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/pinterest.png"/>](ar.pinterest.com/howieze)
-
