@@ -95,7 +95,6 @@ Areas of study: `English Language and Literature`\
 
 <br/>
 <hr/>
-<br/>
 
 ### Tech Stack
 
