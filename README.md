@@ -94,6 +94,17 @@ Featured Projects: [Project]()
 Areas of study: `English Language and Literature`\
 
 <br/>
+
+### Certifications
+
+<img align="left" height="94px" width="94px" alt="ChatGPT Image 2 sept 2026, 07_59_22 p m" src="https://github.com/user-attachments/assets/ba1ff127-af80-4cce-a0eb-ed8400d53180" />
+
+**¿What is open source?** \
+[**IBM**](https://www.ibm.com/account/reg/es-es/signup?formid=urx-54369) • Completo \   
+Areas of study: `Open source`, `Linux`\
+
+
+<br/>
 <hr/>
 
 ### Tech Stack
