@@ -100,6 +100,7 @@ Areas of study: `English Language and Literature`\
 ### Tech Stack
 
 **Lenguajes**  
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -108,6 +109,7 @@ Areas of study: `English Language and Literature`\
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Web**  
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -119,10 +121,12 @@ Areas of study: `English Language and Literature`\
 **IA & LLMs**  
 
 
-**Hardware**  
+**Hardware**
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 **Herramientas**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Autodesk](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white)
