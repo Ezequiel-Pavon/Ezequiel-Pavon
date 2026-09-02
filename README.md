@@ -3,8 +3,8 @@
   <a href="README.es.md"><img src="https://img.shields.io/badge/lang-Español-red.svg" alt="Español"></a>
 </p>
 
-<img width="500" height="220" alt="profile-1" src="https://github.com/user-attachments/assets/87ee2b9c-97fc-4158-af9a-db6a71f98ff4" />
-
+<img width="1041" height="452" alt="profile-1" src="https://github.com/user-attachments/assets/87ee2b9c-97fc-4158-af9a-db6a71f98ff4" /><svg xmlns="http://www.w3.org/2000/svg" width="1041" height="452" viewBox="0 0 1041 452">
+ 
 <p align="center">
   <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
 </p>
