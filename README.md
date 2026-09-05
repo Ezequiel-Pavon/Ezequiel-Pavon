@@ -63,7 +63,7 @@ Featured Projects: [Project]()
 <img align="left" height="94px" width="94px" alt="UNQ" src="https://github.com/user-attachments/assets/0cd39bac-1c97-4bc5-9bc2-2c4d223f1312" />
 
 **Programming Technician (Graduate)** \
-[**Universidad Nacional de Quilmes (ESET-UNQ)**](https://www.unq.edu.ar/) • In-person \  
+[**Universidad Nacional de Quilmes (ESET-UNQ)**](https://www.unq.edu.ar/) • (**2017-2023**) \  
 Areas of study: `Computer Science`,\
 Featured Projects: [Project]()
 
@@ -72,7 +72,7 @@ Featured Projects: [Project]()
 <img align="left" height="94px" width="94px"  alt="INFO" src="https://github.com/user-attachments/assets/1e87c52e-9770-4eb1-b32e-8c40fa760081" />
 
 **Programmer Analyst** \
-[**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • Hybrid \      
+[**Universidad Nacional de La Plata**](https://www.info.unlp.edu.ar/) • (**2026-2028**) \      
 Areas of study: `Computer Science`\
 Featured Projects: [Project]()
 
@@ -81,7 +81,7 @@ Featured Projects: [Project]()
 <img align="left" height="94px" width="94px" alt="MECA" src="https://github.com/user-attachments/assets/9d12016f-1d77-4422-ba11-c012bc37f556" />
 
 **Mechanical Engineering** \
-[**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • Hybrid \   
+[**Universidad Nacional de La Plata**](https://ing.unlp.edu.ar/) • (**2024-present**) \   
 Areas of study: `Mechanical Engineering`\
 Featured Projects: [Project]()
 
@@ -90,7 +90,7 @@ Featured Projects: [Project]()
 <img align="left" height="94px" width="94px" alt="IACBQ" src="https://github.com/user-attachments/assets/9afd3afe-06a3-4125-9364-51ea9823bb05" />
 
 **English B1** \
-[**IACBQ**](https://ing.unlp.edu.ar/) • In-person \   
+[**IACBQ**](https://ing.unlp.edu.ar/) • (**2022-2025**) \   
 Areas of study: `English Language and Literature`\
 
 <br/>
