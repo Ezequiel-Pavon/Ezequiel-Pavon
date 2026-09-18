@@ -109,13 +109,12 @@ Areas of study: `Open source`, `Linux`\
 
 ### Tech Stack
 
-**Main Languages**  
+**Core Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-**Secondary Languages**
-
+**Additional Languages** 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
@@ -132,8 +131,7 @@ Areas of study: `Open source`, `Linux`\
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
-
-**Hardware**  
+**Hardware & Engineering**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white)
 
