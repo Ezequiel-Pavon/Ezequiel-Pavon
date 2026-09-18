@@ -150,6 +150,15 @@ Areas of study: `Open source`, `Linux`\
 
 <hr/>
 
+### Areas of interest
+├── Robotics
+├── Computer Vision
+├── Industrial Automation
+├── Backend & AI
+└── Enterprise Software
+
+<hr/>
+
 Find me on [<img align="center" height="32px" src="https://img.icons8.com/color/48/linkedin.png"/>](https://www.linkedin.com/in/eduardo-howard-ezequiel-pavon/)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/youtube-play.png"/>](https://www.youtube.com/@howieze)
 [<img align="center" height="32px" src="https://img.icons8.com/color/48/pinterest.png"/>](ar.pinterest.com/howieze)
