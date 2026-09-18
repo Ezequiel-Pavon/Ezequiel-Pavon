@@ -152,7 +152,7 @@ Areas of study: `Open source`, `Linux`\
 
 ### Areas of Interest
 
-- Robotics
+- Robotics & Embedded Systems
 - Computer Vision
 - Industrial Automation
 - Backend & AI
