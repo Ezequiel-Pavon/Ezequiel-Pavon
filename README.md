@@ -150,12 +150,13 @@ Areas of study: `Open source`, `Linux`\
 
 <hr/>
 
-### Areas of interest
-├── Robotics 
-├── Computer Vision 
-├── Industrial Automation 
-├── Backend & AI 
-└── Enterprise Software 
+### Areas of Interest
+
+- Robotics
+- Computer Vision
+- Industrial Automation
+- Backend & AI
+- Enterprise Software
 
 <hr/>
 
