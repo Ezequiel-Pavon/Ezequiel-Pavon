@@ -129,9 +129,11 @@ Areas of study: `Open source`, `Linux`\
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
-**Hardware & Engineering**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Autodesk](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white)
+### Systems & Robotics
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-Autodesk-06B6D4?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### Tools, DevOps & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
