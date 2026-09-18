@@ -109,14 +109,12 @@ Areas of study: `Open source`, `Linux`\
 
 ### Tech Stack
 
-**Core Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-
-**Additional Languages**       
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+### Core Languages 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks & Web**  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
@@ -135,11 +133,13 @@ Areas of study: `Open source`, `Linux`\
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/-CAD-4A90D9?style=flat&logo=autodesk&logoColor=white)
 
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+### Tools, DevOps & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 <hr/>
 
 ### Featured Projects
