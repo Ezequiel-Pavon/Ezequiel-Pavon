@@ -97,11 +97,17 @@ Areas of study: `English Language and Literature`\
 
 ### Certifications
 
-<img align="left" height="94px" width="94px" alt="ChatGPT Image 2 sept 2026, 07_59_22 p m" src="https://github.com/user-attachments/assets/ba1ff127-af80-4cce-a0eb-ed8400d53180" />
+<img align="left" height="94px" width="94px" alt="07_59_22 p m" src="https://github.com/user-attachments/assets/ba1ff127-af80-4cce-a0eb-ed8400d53180" />
 
 **¿What is open source?** \
-[**IBM**](https://www.ibm.com/account/reg/es-es/signup?formid=urx-54369) • Completo \   
+[**IBM**](https://www.ibm.com/account/reg/es-es/signup?formid=urx-54369) • Complete \   
 Areas of study: `Open source`, `Linux`\
+
+<img  align="left" height="94px" width="94px" src="https://github.com/user-attachments/assets/a4ef3229-270c-485d-a7b8-10435aa228c9" />
+
+**Getting Started with Linux Fundamentals** \
+[**RED HAT**](link) • In progress \   
+Areas of study: `Open source`, `Linux`, `Linux Commands`, `Operating System Administration`, `Red Hat Enterprise Linux`, `Command-Line Interface`, ``,\
 
 
 <br/>
