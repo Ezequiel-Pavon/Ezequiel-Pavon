@@ -103,6 +103,8 @@ Areas of study: `English Language and Literature`\
 [**IBM**](https://www.ibm.com/account/reg/es-es/signup?formid=urx-54369) • Complete \   
 Areas of study: `Open source`, `Linux`\
 
+<br/>
+
 <img  align="left" height="94px" width="94px" src="https://github.com/user-attachments/assets/a4ef3229-270c-485d-a7b8-10435aa228c9" />
 
 **Getting Started with Linux Fundamentals** \
