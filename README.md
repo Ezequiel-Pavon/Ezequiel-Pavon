@@ -105,11 +105,11 @@ Areas of study: `Open source`, `Linux`\
 
 <br/>
 
-<img  align="left" height="94px" width="94px" src="https://github.com/user-attachments/assets/a4ef3229-270c-485d-a7b8-10435aa228c9" />
+<img align="left" height="94px" width="94px" src="https://github.com/user-attachments/assets/bf458c40-dfbd-46fd-8e4d-1b91ce077902" />
 
 **Getting Started with Linux Fundamentals** \
 [**RED HAT**](link) • In progress \   
-Areas of study: `Open source`, `Linux`, `Linux Commands`, `Operating System Administration`, `Red Hat Enterprise Linux`, `Command-Line Interface`, ``,\
+Areas of study: `Linux Commands`, `Operating System Administration`, `Red Hat Enterprise Linux`, `Command-Line Interface`\
 
 
 <br/>
