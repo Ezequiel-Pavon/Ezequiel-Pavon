@@ -40,7 +40,7 @@ Featured Projects: [Portfolio](https://my-portfolio-nine-sandy-82.vercel.app/)
 
 <img align="left" height="94px" width="94px" alt="Lifialogo" src="https://github.com/user-attachments/assets/10123b66-c9a2-43a6-b07e-06e2c730422c" />
 
-**Student Researcher** \
+**Researcher** \
 [**LIFIA**](https://lifia.info.unlp.edu.ar/) • Hybrid \
 Languages & Technologies: `Python`, `Pipelines`, `SQLite`, `Django`, `LLAMA3`, `LLMs`\
 Featured Projects: [Project]()
