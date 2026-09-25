@@ -24,7 +24,7 @@ Featured projects: [Web](),
 
 <img align="left" height="94px" width="94px" alt="qlt-logo" src="https://github.com/user-attachments/assets/cf34609c-85ed-4d88-93d8-1ced4a8ecbb0" />
 
-**Software Developer** \
+**Full Stack Developer** \
 [**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Part time \
 Languages & Technologies: `C#`, `TypeScript`, `React`, `ASP.NET`, `SQL`, `CSS`, `HTML`\
 Featured Projects: [Web](),
