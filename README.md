@@ -161,12 +161,12 @@ Areas of study: `Linux Commands`, `Operating System Administration`, `Red Hat En
 <hr/>
 
 ### Areas of Interest
-
-- Robotics & Embedded Systems
-- Computer Vision
-- Industrial Automation
-- Backend & AI
+- Web (Full Stack Development)
+- Artificial Intelligence
+- Embedded / IoT
 - Enterprise Software
+- DevOps / Cloud
+- Industrial Automation
 
 <hr/>
 
