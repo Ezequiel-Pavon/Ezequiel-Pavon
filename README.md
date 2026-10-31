@@ -25,7 +25,7 @@ Featured projects: [Web](),
 <img align="left" height="94px" width="94px" alt="qlt-logo" src="https://github.com/user-attachments/assets/cf34609c-85ed-4d88-93d8-1ced4a8ecbb0" />
 
 **CCTV Operator & IT Technical Support** \
-[**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Part time \
+[**QLT-Servicios Generales**](https://qlt-srl-v1.vercel.app/) • Full-time \
 Languages & Technologies: `Hikvision`, `Jira`, ``, ``, `SQL`, ``, ``\
 Featured Projects: [Web](),
 <br/>
@@ -56,7 +56,7 @@ Featured Projects: [Project]()
 
 <img align="left" height="94px" width="94px" alt="pavon_industries_800x800" src="https://github.com/user-attachments/assets/9b3babe3-f404-47a3-92f6-3aa077c0a307" />
 
-[**Founder & CEO**]() • Autonomous \
+[**Founder & CEO**]() • Full-time \
 Featured Projects: [Project]()
 <br/>
 <br/>
