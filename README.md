@@ -56,7 +56,7 @@ Featured Projects: [Project]()
 
 <img width="94px" height="94px" alt="pavon_industries_800x800" src="https://github.com/user-attachments/assets/9b3babe3-f404-47a3-92f6-3aa077c0a307" />
 
-**Founder & CEO** \
+**Founder & CEO** \ 
 [**Pavón Industries**]() • Autonomous \
 Featured Projects: [Project]()
 <br/>
